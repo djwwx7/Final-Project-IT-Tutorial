@@ -1,4 +1,4 @@
-## How to create a user in a database
+### How to create a user in a database
 #### By: Cody Whitaker
 ---
 
