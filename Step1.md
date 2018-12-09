@@ -4,3 +4,5 @@ Open the database that you want to add a new user too, right click on users and 
 User. In this example I created the new user Test1 for salesdb.
 
 ![alt text](https://github.com/djwwx7/Final-Project-IT-Tutorial/blob/master/step1.PNG "Step 1 Picture")
+
+[Continue to Step 2](/Step2.md/)
